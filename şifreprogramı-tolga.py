@@ -37,9 +37,9 @@ while calisiyor:
                 for y in sifre:
                     sifre2 += y
                 #dosyaya yazılan şifreleri birbirinden ayırt etmek için
-                sifreler.write("\n" + "Bu Bir Şifredir: " +str(sifre2)
-            #print(f"şifre yaratıldı")
-            #sifreler.close()
+                sifreler.write("\n" + "Bu Bir Şifredir: " +str(sifre2))
+            print(f"şifre yaratıldı")
+            sifreler.close()
         
         elif(secim==2):
             os.system("cat şifreler.txt")
