@@ -3,6 +3,7 @@ import os
 import random
 import time
 import math
+# deneme .
 calisiyor = True
 harfler = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","s","t","u","v","x","y","z"]
 rakamlar = ["0","1","2","3","4","5","6","7","8","9"]
